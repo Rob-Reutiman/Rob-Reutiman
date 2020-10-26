@@ -17,8 +17,8 @@ Hi! I'm Rob, and I'm a senior CS student at ND. I'm passionate about web and app
 Currently looking for a full time Software Engineering role, open to most locations! 
 
 ### Current Projects
-Fantasy Premier League Analytics Application
-  -RESTful API built with cherrypy (Python)
+Fantasy Premier League Analytics Application  
+  -RESTful API built with cherrypy (Python)  
   -client built with React (Javascript/HTML/CSS)
 
 ### Other Work / Profiles
