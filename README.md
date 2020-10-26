@@ -1,6 +1,6 @@
-### Hello!
+### Job Status: Seeking Full Time
 
-Currently looking for a full time software engineering role, open to most locations! 
+Currently looking for a full time Software Engineering role, open to most locations! 
 
 ### Current Projects
 Fantasy Premier League Analytics Application
