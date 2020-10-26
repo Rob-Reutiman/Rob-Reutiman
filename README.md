@@ -22,5 +22,5 @@ Fantasy Premier League Analytics Application
   -client built with React (Javascript/HTML/CSS)
 
 ### Other Work / Profiles
-Portfolio: https://www.robreutiman.com/
+Portfolio: https://www.robreutiman.com/  
 LinkedIn: https://www.linkedin.com/in/robert-reutiman/
