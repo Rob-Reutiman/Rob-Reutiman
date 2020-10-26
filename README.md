@@ -1,3 +1,15 @@
+## Rob Reutiman
+
+### About Me
+
+<br />
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Rob-Reutiman&show_icons=true" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Reutiman&layout=compact" />
+ </div>
+
+<br />
+
 ### Job Status: Seeking Full Time
 
 Currently looking for a full time Software Engineering role, open to most locations! 
