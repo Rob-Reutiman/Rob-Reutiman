@@ -18,8 +18,8 @@ Currently looking for a full time Software Engineering role, open to most locati
 
 ### Current Projects
 Fantasy Premier League Analytics Application  
-  -RESTful API built with cherrypy (Python)  
-  -client built with React (Javascript/HTML/CSS)
+\t-RESTful API built with cherrypy (Python)  
+\t-client built with React (Javascript/HTML/CSS)
 
 ### Other Work / Profiles
 Portfolio: https://www.robreutiman.com/
